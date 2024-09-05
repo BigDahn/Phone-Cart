@@ -1,5 +1,4 @@
 import { createAsyncThunk, createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Cart } from "./cart";
 import { cartSchema } from "./cart";
 import {data} from "./data";
 import axios from "axios";

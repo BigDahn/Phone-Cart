@@ -1,4 +1,3 @@
-import React from 'react'
 import { useAppSelector } from '../hooks'
 const Navbars = () => {
   const {amount} = useAppSelector((store)=>store.cart)

@@ -1,4 +1,3 @@
-import React from 'react'
 import { useAppDispatch } from '../hooks'
 import { clearCart } from './cartSlice'
 import { closeModal } from './ModalSlice'

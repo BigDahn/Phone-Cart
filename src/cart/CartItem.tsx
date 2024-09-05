@@ -1,4 +1,4 @@
-import { useAppDispatch, useAppSelector } from "../hooks"
+import { useAppDispatch } from "../hooks"
 
 
 import { cartSchema, decrease, increase, removeItem } from "./cartSlice"

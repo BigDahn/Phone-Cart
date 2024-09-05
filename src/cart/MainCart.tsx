@@ -1,4 +1,3 @@
-
 import { useAppDispatch, useAppSelector } from "../hooks"
 import CartItem from "./CartItem"
 import { openModal } from "./ModalSlice"
